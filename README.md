@@ -9,8 +9,8 @@ A React Native sample application that uses [ConfigCat's](https://configcat.com)
 
 ### Build & Run
 * Close repository
-* Inside the project's folder, in a Command Prompt run: npx react-native start
-* In a second Command Prompt run: npx react-native run-android
+* Inside the project's folder, in a Command Prompt run: `npx react-native start`
+* In a second Command Prompt run: `npx react-native run-android`
 
 ## Learn more
 To learn more about React Native development, check out the following resources:
