@@ -1,4 +1,4 @@
-# feature-flags-in-react-native-sample
+# Using Feature Flags in a React Native Application
 A React Native sample application that uses [ConfigCat's](https://configcat.com) Feature Flag Management system. The application is a login page in which the `signup` feature can be turned on/off by using a feature flag.
 
 ### Prerequisites
